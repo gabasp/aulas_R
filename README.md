@@ -1,2 +1,1 @@
-# aulas_R
-Aulas de R
+Fazendo códigos para aprender R para Data Science e Estatística
